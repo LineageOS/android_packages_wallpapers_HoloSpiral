@@ -14,8 +14,4 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
-  <string name="wallpaper_label">Holo Spiral</string>
-  <string name="wallpaper_author">Google</string>
-  <string name="wallpaper_description">Fondu pantalla basáu en Holo Spiral</string>
-</resources>
+<resources></resources>
