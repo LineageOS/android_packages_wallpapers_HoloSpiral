@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="wallpaper_label">Holo-Spiral</string>
-  <string name="wallpaper_author">Google</string>
-  <string name="wallpaper_description">Hannergrondbild mat Spiralen am Holo-Stil</string>
+    <string name="wallpaper_label">Holo-Spiral</string>
+    <string name="wallpaper_author">Google</string>
+    <string name="wallpaper_description">Hannergrondbild mat Spiralen am Holo-Stil</string>
 </resources>

@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="wallpaper_label">پێچ پێچى هۆلۆ</string>
-  <string name="wallpaper_author">Google</string>
-  <string name="wallpaper_description">پشتەگەڵاڵە جۆراوجۆر</string>
+    <string name="wallpaper_label">پێچ پێچى هۆلۆ</string>
+    <string name="wallpaper_author">Google</string>
+    <string name="wallpaper_description">پشتەگەڵاڵە جۆراوجۆر</string>
 </resources>

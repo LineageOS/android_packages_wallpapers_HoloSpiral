@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="wallpaper_label">نۇر ھالقا بۇرمىسى</string>
-  <string name="wallpaper_author">Google</string>
-  <string name="wallpaper_description">نۇر ھالقا ئۆرنىكىنىڭ بۇرمىسىمان تام قەغىزى</string>
+    <string name="wallpaper_label">نۇر ھالقا بۇرمىسى</string>
+    <string name="wallpaper_author">Google</string>
+    <string name="wallpaper_description">نۇر ھالقا ئۆرنىكىنىڭ بۇرمىسىمان تام قەغىزى</string>
 </resources>
